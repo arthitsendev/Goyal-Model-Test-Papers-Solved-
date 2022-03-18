@@ -21,6 +21,7 @@ class Program1_Paper1 {
                     f++;
                 }
                 first=' ';
+                w="";
             }
         }
         System.out.print("Total number of words starting with letter A="+f);
